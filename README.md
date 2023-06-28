@@ -1,31 +1,31 @@
 # **Operating-Systems**
 
-### **Systemy operacyjne**
+### **Operating Systems**
 
-## **Opis:**
-Repozytorium Systemy operacyjne zawiera przykładowe projekty, narzędzia i materiały edukacyjne związane ze studiowaniem i eksploracją różnych systemów operacyjnych. Systemy operacyjne są podstawowym oprogramowaniem, które zarządza zasobami komputera i umożliwia interakcję użytkownika z urządzeniem. Repozytorium to ma na celu dostarczenie materiałów i przykładów dla studentów informatyki, programistów i pasjonatów technologii, którzy chcą zgłębić wiedzę na temat systemów operacyjnych.
+## **Description:**
+The Operating Systems repository contains example projects, tools, and educational materials for studying and exploring various operating systems. Operating systems are the underlying software that manages computer resources and enables user interaction with the device. This repository is designed to provide resources and examples for computer science students, developers, and tech enthusiasts who want to deepen their understanding of operating systems.
 
-## **Struktura Repozytorium:**
-/Projects: W tym folderze znajdują się różne projekty związane z systemami operacyjnymi. Może to obejmować implementacje prostych systemów operacyjnych, narzędzia diagnostyczne, programy do monitorowania zasobów i wiele innych.
+## **Repository Structure:**
+/Projects: This folder contains various projects related to operating systems. This can include implementations of simple operating systems, diagnostic tools, resource monitoring programs, and much more.
 
-/Courses: Ten folder zawiera różnego rodzaju materiały edukacyjne, takie jak podręczniki, tutoriale i artykuły związane z systemami operacyjnymi. Znajdziesz tu również linki do innych źródeł informacji i zasobów.
+/Courses: This folder contains various types of educational materials such as manuals, tutorials, and articles related to operating systems. You will also find links to other sources of information and resources.
 
-## **Jak zacząć:**
-Sklonuj repozytorium na swój lokalny komputer:
+## **How ​​to start:**
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Operating-Systems.git
 ```
-Przeglądaj dostępne projekty i materiały w odpowiednich folderach.
+Browse available projects and materials in their respective folders.
 
-Eksperymentuj z kodem źródłowym, analizuj implementacje i poszerzaj swoją wiedzę na temat systemów operacyjnych.
+Experiment with the source code, analyze implementations and expand your knowledge of operating systems.
 
-## **Wymagania systemowe**
-Aby eksplorować i analizować systemy operacyjne, będziesz potrzebować dostępu do komputera z zainstalowanym odpowiednim systemem operacyjnym. W zależności od projektu i celu nauki, możesz potrzebować różnych systemów operacyjnych, takich jak Windows, Linux lub macOS.
+## **System requirements**
+To explore and analyze operating systems, you will need access to a computer with the appropriate operating system installed. Depending on your project and learning goal, you may need different operating systems such as Windows, Linux or macOS.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty i przykłady związane z systemami operacyjnymi. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests or share your own projects and examples related to operating systems. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, możesz skontaktować się ze mną poprzez e-mail lub przez platformę GitHub.
+If you have questions or need help, you can contact me via email or GitHub.
 
-## **Licencja**
-Ten projekt jest objęty licencją MIT. Zachęcam do zapoznania się z pełnym tekstem licencji przed korzystaniem z tego repozytorium.
+## **License**
+This project is licensed under the MIT license. I encourage you to read the full license text before using this repository.
