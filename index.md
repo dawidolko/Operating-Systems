@@ -11,8 +11,8 @@ redirect_to: sh.dawidolko.pl
 **[Co to projekty?](projects/README.md) - Definicja i zagadnienia**
  - [Repozytorium](https://github.com/dawidolko/Operating-Systems/tree/main/projects)
 
-**[Projekt I](https://github.com/dawidolko/Operating-Systems/blob/main/projects/7opcjiDELTA/Projekt%201.sh)
+**[Projekt I](https://github.com/dawidolko/Operating-Systems/blob/main/projects/7opcjiDELTA/Projekt%201.sh) - Kalkulator delty**
  - [opis](projects/7opcjiDELTA/README.md)
 
-**[Projekt II](https://github.com/dawidolko/Operating-Systems/blob/main/projects/7opcjiDELTA/Projekt%202.sh)
+**[Projekt II](https://github.com/dawidolko/Operating-Systems/blob/main/projects/7opcjiDELTA/Projekt%202.sh) - Kalkulator wyboru 7 opcji**
  - [opis](projects/7opcjiDELTA/README.md)
