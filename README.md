@@ -8,8 +8,6 @@ The Operating Systems repository contains example projects, tools, and education
 ## **Repository Structure:**
 /Projects: This folder contains various projects related to operating systems. This can include implementations of simple operating systems, diagnostic tools, resource monitoring programs, and much more.
 
-/Courses: This folder contains various types of educational materials such as manuals, tutorials, and articles related to operating systems. You will also find links to other sources of information and resources.
-
 ## **How ​​to start:**
 Clone the repository to your local computer:
 ```
