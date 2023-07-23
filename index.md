@@ -16,3 +16,6 @@ redirect_to: sh.dawidolko.pl
 
 **[Projekt II](https://github.com/dawidolko/Operating-Systems/blob/main/projects/7opcjiDELTA/Projekt%202.sh) - Kalkulator wyboru 7 opcji**
  - [opis](projects/7opcjiDELTA/README.md)
+
+**[Projekt III](https://github.com/dawidolko/Operating-Systems/blob/main/projects/hangman/Projekt%203.sh) - Wisielec**
+ - [opis](projects/hangman/README.md)
