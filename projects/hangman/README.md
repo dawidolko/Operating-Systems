@@ -1,7 +1,7 @@
 # Wisielec - Gra słowna
 
 ## Opis projektu
-Wisielec to prosty projekt napisany w języku Python, który implementuje popularną grę słowną o tej samej nazwie. Gra polega na odgadywaniu wyrazu, zgadywując kolejne litery, zanim zostanie narysowany wisielec.
+Wisielec to prosty projekt napisany w języku Shell, który implementuje popularną grę słowną o tej samej nazwie. Gra polega na odgadywaniu wyrazu, zgadywując kolejne litery, zanim zostanie narysowany wisielec.
 
 ## Jak zagrać?
 Po uruchomieniu programu, zostanie wyświetlone menu z opcją rozpoczęcia nowej gry. Gracz ma za zadanie odgadnąć ukryte słowo, wprowadzając pojedyncze litery. Gracz ma ograniczoną liczbę prób, aby zgadnąć słowo przed narysowaniem wisielca. Po każdej próbie, program poinformuje gracza, czy wprowadzona litera występuje w słowie oraz pokaże aktualny stan odgadywanego słowa.
@@ -21,7 +21,7 @@ Zakończenie gry: Gra kończy się, gdy gracz odgadnie słowo lub gdy wisielec z
 Gra Wisielec została napisana w języku Python 3. Aby uruchomić grę, upewnij się, że masz zainstalowany interpreter Python 3 na swoim komputerze. Następnie wpisz polecenie python wisielec.py w terminalu, aby rozpocząć grę.
 
 ## Wymagania
-- bash
+- bash/linux
 
 ## Uwagi
 Gra Wisielec jest stworzona w celach rekreacyjnych i rozrywkowych. Może być rozszerzona o dodatkowe funkcje lub zoptymalizowana pod kątem interaktywności w przyszłych wersjach.
