@@ -1,27 +1,27 @@
-# Wisielec - Gra słowna
+# Hangman - Word game
 
-## Opis projektu
-Wisielec to prosty projekt napisany w języku Shell, który implementuje popularną grę słowną o tej samej nazwie. Gra polega na odgadywaniu wyrazu, zgadywując kolejne litery, zanim zostanie narysowany wisielec.
+## Project description
+Hangman is a simple project written in Shell that implements the popular word game of the same name. The game involves guessing the word by guessing the letters before the hanged person is drawn.
 
-## Jak zagrać?
-Po uruchomieniu programu, zostanie wyświetlone menu z opcją rozpoczęcia nowej gry. Gracz ma za zadanie odgadnąć ukryte słowo, wprowadzając pojedyncze litery. Gracz ma ograniczoną liczbę prób, aby zgadnąć słowo przed narysowaniem wisielca. Po każdej próbie, program poinformuje gracza, czy wprowadzona litera występuje w słowie oraz pokaże aktualny stan odgadywanego słowa.
+## How to play?
+After starting the program, a menu will appear with the option to start a new game. The player's task is to guess the hidden word by entering individual letters. The player has a limited number of attempts to guess the word before drawing the hanged man. After each attempt, the program will inform the player whether the entered letter appears in the word and will show the current status of the word being guessed.
 
-## Funkcje gry
-Losowanie słowa: Program losuje jedno słowo z wcześniej zdefiniowanej listy słów, które gracz będzie próbował odgadnąć.
+## Game features
+Word Random: The program randomly selects one word from a predefined list of words that the player will try to guess.
 
-Odgadywanie liter: Gracz ma możliwość wprowadzania pojedynczych liter. Program sprawdza, czy litera występuje w słowie i aktualizuje stan odgadywanego słowa.
+Guessing letters: The player can enter individual letters. The program checks whether the letter appears in the word and updates the status of the guessed word.
 
-Wyświetlanie stanu gry: Po każdej próbie, program poinformuje gracza, czy wprowadzona litera jest częścią słowa i pokaże aktualny stan odgadywanego słowa, z ukrytymi jeszcze literami.
+Displaying the game status: After each attempt, the program will inform the player whether the letter entered is part of a word and will show the current status of the word being guessed, with the letters still hidden.
 
-Rysowanie wisielca: Jeśli gracz nie zgadnie słowa przed przekroczeniem limitu prób, program rysuje elementy wisielca na ekranie, symbolizując postępujący stan wisielca.
+Drawing a Hanged Man: If the player fails to guess the word before the attempt limit is reached, the program draws elements of a hanged man on the screen, symbolizing the progressing state of the hanged man.
 
-Zakończenie gry: Gra kończy się, gdy gracz odgadnie słowo lub gdy wisielec zostanie narysowany w całości.
+Game End: The game ends when the player guesses the word or when the hanged man is completely drawn.
 
-## Uruchamianie gry
-Gra Wisielec została napisana w języku Python 3. Aby uruchomić grę, upewnij się, że masz zainstalowany interpreter Python 3 na swoim komputerze. Następnie wpisz polecenie python wisielec.py w terminalu, aby rozpocząć grę.
+## Starting the game
+The Hangman game was written in Python 3. To run the game, make sure you have the Python 3 interpreter installed on your computer. Then type python hangman.py in the terminal to start the game.
 
-## Wymagania
+## Requirements
 - bash/linux
 
-## Uwagi
-Gra Wisielec jest stworzona w celach rekreacyjnych i rozrywkowych. Może być rozszerzona o dodatkowe funkcje lub zoptymalizowana pod kątem interaktywności w przyszłych wersjach.
+## Comments
+The Hangman game is created for recreational and entertainment purposes. It may be extended with additional features or optimized for interactivity in future versions.
